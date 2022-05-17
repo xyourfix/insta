@@ -335,8 +335,7 @@ if ($pilihan == 1) {
     error_reporting(0);
     $no = 1;
     echo "[+] \e[0;32mInstagram Creator With sms-activate.ru\e[0m\n";
-    echo "[+] \e[0;32mCreator Apri Amsyah\e[0m\n";
-    echo "[+] \e[0;32mContact : fb.com/dc0de1337\e[0m\n\n";
+    echo "[+] \e[0;32mAYANG\e[0m\n";
     
     echo "[+] Password for the account you want to create : ";
     $passwod = trim(fgets(STDIN));
@@ -650,8 +649,7 @@ if ($pilihan == 1) {
     error_reporting(0);
     $no = 1;
     echo "[+] \e[0;32mInstagram Creator With Manual Phone Number\e[0m\n";
-    echo "[+] \e[0;32mCreator Apri Amsyah\e[0m\n";
-    echo "[+] \e[0;32mContact : fb.com/dc0de1337\e[0m\n\n";
+    echo "[+] \e[0;32mAYANG\e[0m\n";
     
     echo "[+] Password for the account you want to create : ";
     $passwod = trim(fgets(STDIN));
